@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    background-color: #FFF;
+    color: #383636;
+    font-weight: bold;
+    font-style: italic;
+    padding: 10px 30px;
+}
+
+.content{
+    text-align: center;
+    justify-content: center;
+    
+}
+
+button{
+    margin-left: 50%;
+    margin-top: 30px; 
+}
+
+button:hover{
+    opacity: 0.5;
+}
+.container{
+    padding-top: 150px;
+    
+}
+
+body{
+    background-color: #7fffd4;
+}
+
